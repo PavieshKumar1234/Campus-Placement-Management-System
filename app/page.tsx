@@ -35,7 +35,7 @@ export default function EntryPage() {
 
     window.setTimeout(() => {
       router.replace('/admin/dashboard');
-    }, 700);
+    }, 250);
   };
 
   return (

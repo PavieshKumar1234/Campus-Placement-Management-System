@@ -6,9 +6,6 @@ A modern and responsive **Campus Placement Management System** built with Next.j
 
 [Open Campus Placement Management System](https://campus-placement-management-system-lake.vercel.app/)
 
-## 📸 Dashboard Preview
-
-![Campus Placement Management System Dashboard](screenshots/dashboard.png)
 
 ## 📌 Project Overview
 

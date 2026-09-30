@@ -105,156 +105,17 @@ Campus-Placement-Management-System/
 ├── tsconfig.json
 └── README.md
 
+<h2>📸 Screenshots</h2>
 
-## 📸 Screenshots
-
-### 🎬 Introduction
-
-<p align="center">
-  <img src="./app/images/Intro-animation.png" alt="Intro Animation" width="850">
-</p>
-
----
-
-## 🔐 Admin Portal
-
-### 📊 Admin Dashboard
+<h3>🔐 Admin Dashboard</h3>
 
 <p align="center">
-  <img src="./app/images/Admin-dashboard.png" alt="Admin Dashboard" width="850">
+  <img
+    src="https://raw.githubusercontent.com/PavieshKumar1234/Campus-Placement-Management-System/main/app/images/Admin-dashboard.png"
+    alt="Admin Dashboard"
+    width="900"
+  />
 </p>
-
-### ⚙️ Admin Management
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Applications**
-
-<img src="./app/images/Admin-application-page.png" alt="Admin Application Page" width="100%">
-
-</td>
-<td align="center" width="50%">
-
-**Companies**
-
-<img src="./app/images/Admin-companies-page.png" alt="Admin Companies Page" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**Interviews**
-
-<img src="./app/images/Admin-interview-page.png" alt="Admin Interview Page" width="100%">
-
-</td>
-<td align="center">
-
-**Students**
-
-<img src="./app/images/Admin-student-page.png" alt="Admin Student Page" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**Placement**
-
-<img src="./app/images/Admin-placement-page.png" alt="Admin Placement Page" width="100%">
-
-</td>
-<td align="center">
-
-**Placement Analysis**
-
-<img src="./app/images/Admin-placement-analysis-page.png" alt="Admin Placement Analysis Page" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**Placement Records**
-
-<img src="./app/images/Admin-placement-records-page.png" alt="Admin Placement Records Page" width="100%">
-
-</td>
-<td align="center">
-
-**Reports**
-
-<img src="./app/images/Admin-reports-page.png" alt="Admin Reports Page" width="100%">
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Student Portal
-
-### 📊 Student Dashboard
-
-<p align="center">
-  <img src="./app/images/Student-dashboard.png" alt="Student Dashboard" width="850">
-</p>
-
-### 👨‍🎓 Student Pages
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Companies**
-
-<img src="./app/images/Student-companies-page.png" alt="Student Companies Page" width="100%">
-
-</td>
-<td align="center" width="50%">
-
-**Interviews**
-
-<img src="./app/images/Student-Interview-page.png" alt="Student Interview Page" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**Notifications**
-
-<img src="./app/images/Student-notifications-page.png" alt="Student Notifications Page" width="100%">
-
-</td>
-<td align="center">
-
-**Offers & Results**
-
-<img src="./app/images/Student-offers-results.png" alt="Student Offers and Results" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**Placement**
-
-<img src="./app/images/Student-placement-page.png" alt="Student Placement Page" width="100%">
-
-</td>
-<td align="center">
-
-**Profile**
-
 <img src="./app/images/Student-profile-page.png" alt="Student Profile Page" width="100%">
 
 </td>

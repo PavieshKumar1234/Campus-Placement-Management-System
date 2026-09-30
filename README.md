@@ -106,4 +106,6 @@ Campus-Placement-Management-System/
 └── README.md
 
 
+## 📸 Test Image
 
+![Admin Dashboard](https://raw.githubusercontent.com/PavieshKumar1234/Campus-Placement-Management-System/main/app/images/Admin-dashboard.png)

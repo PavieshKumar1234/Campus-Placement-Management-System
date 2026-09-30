@@ -105,19 +105,3 @@ Campus-Placement-Management-System/
 ├── tsconfig.json
 └── README.md
 
-<h2>📸 Screenshots</h2>
-
-<h3>🔐 Admin Dashboard</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/PavieshKumar1234/Campus-Placement-Management-System/main/app/images/Admin-dashboard.png"
-    alt="Admin Dashboard"
-    width="900"
-  />
-</p>
-<img src="./app/images/Student-profile-page.png" alt="Student Profile Page" width="100%">
-
-</td>
-</tr>
-</table>

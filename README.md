@@ -104,5 +104,67 @@ Campus-Placement-Management-System/
 ├── package-lock.json
 ├── tsconfig.json
 └── README.md
+## 📸 Screenshots
+
+### 🎬 Introduction
+
+<p align="center">
+  <img src="./app/images/Intro-animation.png" alt="Intro Animation" width="900"/>
+</p>
+
+---
+
+## 🔐 Admin Portal
+
+### 📊 Admin Dashboard
+
+<p align="center">
+  <img src="./app/images/Admin-dashboard.png" alt="Admin Dashboard" width="900"/>
+</p>
+
+### ⚙️ Admin Management Pages
+
+| Applications                                                                                  | Companies                                                                                 |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="./app/images/Admin-application-page.png" alt="Admin Application Page" width="450"/> | <img src="./app/images/Admin-companies-page.png" alt="Admin Companies Page" width="450"/> |
+
+| Interviews                                                                                | Students                                                                              |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <img src="./app/images/Admin-interview-page.png" alt="Admin Interview Page" width="450"/> | <img src="./app/images/Admin-student-page.png" alt="Admin Student Page" width="450"/> |
+
+| Placement                                                                                 | Placement Analysis                                                                                          |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| <img src="./app/images/Admin-placement-page.png" alt="Admin Placement Page" width="450"/> | <img src="./app/images/Admin-placement-analysis-page.png" alt="Admin Placement Analysis Page" width="450"/> |
+
+| Placement Records                                                                                         | Reports                                                                               |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <img src="./app/images/Admin-placement-records-page.png" alt="Admin Placement Records Page" width="450"/> | <img src="./app/images/Admin-reports-page.png" alt="Admin Reports Page" width="450"/> |
+
+---
+
+## 🎓 Student Portal
+
+### 📊 Student Dashboard
+
+<p align="center">
+  <img src="./app/images/Student-dashboard.png" alt="Student Dashboard" width="900"/>
+</p>
+
+### 👨‍🎓 Student Pages
+
+| Companies                                                                                     | Interviews                                                                                    |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img src="./app/images/Student-companies-page.png" alt="Student Companies Page" width="450"/> | <img src="./app/images/Student-Interview-page.png" alt="Student Interview Page" width="450"/> |
+
+| Notifications                                                                                         | Offers & Results                                                                                  |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| <img src="./app/images/Student-notifications-page.png" alt="Student Notifications Page" width="450"/> | <img src="./app/images/Student-offers-results.png" alt="Student Offers and Results" width="450"/> |
+
+| Placement                                                                                     | Profile                                                                                   |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="./app/images/Student-placement-page.png" alt="Student Placement Page" width="450"/> | <img src="./app/images/Student-profile-page.png" alt="Student Profile Page" width="450"/> |
+
+---
+
 
 
